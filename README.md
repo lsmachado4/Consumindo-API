@@ -19,11 +19,11 @@ Criar um API
 
 Consumir API
 
-    -[x] Utilizar fetch para consumir nossa API backend
-    -[x] Explicar Promise - Async/await
-    -[x] Usar try/catch
-    -[x] Rodar `npx lite-server` --> servidor para html
-    -[x] mostrar a resposta na tela
+- [x] Utilizar fetch para consumir nossa API backend
+- [x] Explicar Promise - Async/await
+- [x] Usar try/catch
+- [x] Rodar `npx lite-server` --> servidor para html
+- [x] mostrar a resposta na tela
 
 ## Backend
 Consumir API
