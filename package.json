@@ -1,0 +1,20 @@
+{
+  "name": "consumindo_api",
+  "version": "1.0.0",
+  "description": "## API",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "cros": "^1.0.1",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
